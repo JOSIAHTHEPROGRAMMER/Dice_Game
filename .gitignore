@@ -1,0 +1,19 @@
+# Build Folders
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+
+# Package directories
+packages/
+
+# Rider IDE
+.idea/
+
+# Others
+*.DS_Store
